@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31d6cfe0.css",
+    "main.js": "/static/js/main.4dea22eb.js",
+    "static/media/4.png": "/static/media/4.917ad24575ebf54cbec8.png",
+    "static/media/profile.jpg": "/static/media/profile.250da3c7d61483ddd529.jpg",
+    "static/media/iot.png": "/static/media/iot.11eb5fdc289620597096.png",
+    "static/media/netlify.png": "/static/media/netlify.ff4d51ea2441598526e8.png",
+    "static/media/2.png": "/static/media/2.c5226f68a4b90f682709.png",
+    "static/media/javascript.png": "/static/media/javascript.44e5671435d4f59b8b08.png",
+    "static/media/express.png": "/static/media/express.343cc889d9204327f934.png",
+    "static/media/web.jpg": "/static/media/web.8c77bfb88844ee7aa4d2.jpg",
+    "static/media/vscode.png": "/static/media/vscode.e9ef73afa61bf01dfb58.png",
+    "index.html": "/index.html",
+    "main.4dea22eb.js.map": "/static/js/main.4dea22eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.4dea22eb.js"
+  ]
+}
