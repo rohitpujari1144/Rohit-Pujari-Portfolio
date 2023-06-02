@@ -1,2 +1,2 @@
-# Personal Portfolio
-Deployed URL : https://rohit-pujari-portfolio.netlify.app/
+# Portfolio
+- Deployed URL : https://rohit-pujari-portfolio.netlify.app/
