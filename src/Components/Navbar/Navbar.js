@@ -40,7 +40,7 @@ function TabsExample() {
                 <a className="nav-link active text-white" aria-current="page" href="#contact" style={{fontFamily:'Trebuchet MS', fontSize:'125%'}}>Contact</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link active text-white" aria-current="page" href="https://drive.google.com/file/d/1NaI4LRYQB4OtfppBQsh4EhUYF7egH2Mo/view?usp=sharing" target='_blank' rel="noreferrer"  style={{fontFamily:'Trebuchet MS', fontSize:'125%'}}>Resume <i className="fa-solid fa-download fs-5"></i></a>
+                <a className="nav-link active text-white" aria-current="page" href="https://drive.google.com/file/d/1tuM6TWnE1U6ZdVmWPzeziaCLUdCng0B8/view" target='_blank' rel="noreferrer"  style={{fontFamily:'Trebuchet MS', fontSize:'125%'}}>Resume <i className="fa-solid fa-download fs-5"></i></a>
               </li>
             </ul>
           </div>
