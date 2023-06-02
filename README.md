@@ -1,2 +1,2 @@
 # Portfolio
-- Deployed URL : https://rohit-pujari-portfolio.netlify.app/
+- Deployed URL - https://rohit-pujari-portfolio.netlify.app/
