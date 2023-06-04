@@ -1,0 +1,24 @@
+.experienceMainDiv {
+    height: 550px;
+}
+
+.fontFamily{
+    font-family: Trebuchet MS;
+}
+
+.internship {
+    letter-spacing: 3px;
+    font-size: 300%;
+
+}
+
+.internshipImageDiv {
+    width: 310px;
+    height: 340px; 
+}
+
+.internshipImage {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
