@@ -1,0 +1,85 @@
+.projectsMainDiv{
+    height: 1670px;
+}
+
+.projects{
+    letter-spacing: 3px;
+    font-size: 300%;
+}
+
+/* gmail clone style start */
+.gmailClone{
+    font-family: Trebuchet MS;
+    color: aqua;
+    max-width: fit-content;
+}
+
+.gmailCloneDesc{
+    font-family: Trebuchet MS;
+}
+
+.gmailCloneSpecifications{
+    font-family: Arial;
+}
+
+.projectButton{
+    max-width: fit-content;
+}
+
+.netlify{
+    max-width: 45px;
+    max-height: 45px;
+}
+/* gmail clone style end */
+
+/* user management style start */
+.userManagementDiv{
+    /* margin-top: 80px; */
+}
+
+.userManagementCarouselDiv{
+    max-height: 380px;
+    max-width: 730px;
+}
+
+.userManagementViaGoogleAuth{
+    font-family: Trebuchet MS;
+    color: aqua;
+    max-width: fit-content;
+}
+
+.userManagementDesc{
+    font-family: Trebuchet MS;
+}
+
+.userManagementSpecification{
+    font-family: Arial;
+}
+/* user management style end */
+
+/* recipe book style start */
+.recipeBookMainDiv{
+    margin-top: 80px;
+}
+
+.recipeBook{
+    font-family: Trebuchet MS;
+    max-width: fit-content;
+    color: aqua;
+}
+
+.recipeBookDesc{
+    font-family: Trebuchet MS;
+}
+
+.recipeBookSpecification{
+    font-family: Arial;
+}
+
+.recipeBookCrouselDiv{
+    max-height: 400px;
+    margin-top: 80px;
+}
+/* recipe book style end */
+
+

@@ -1,0 +1,28 @@
+.certificationMainDiv {
+    height: 650px;
+}
+
+.certification {
+    font-size: 300%;
+    letter-spacing: 3px;
+}
+
+.fullStackWebDevelopment {
+    font-family: Trebuchet MS;
+    max-width: fit-content;
+}
+
+.certificateLink {
+    text-decoration: none;
+}
+
+.certificationImageDiv {
+    max-width: 450px;
+    height: 300px;
+    margin-top: 5px;
+}
+
+.certificationImage{
+    width: 100%;
+    height: 100%;
+}
