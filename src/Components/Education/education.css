@@ -1,0 +1,85 @@
+.educationMainDiv {
+    margin-top: 50px;
+    height: 680px;
+}
+
+.education {
+    letter-spacing: 3px;
+    margin-left: 85px;
+    font-size: 300%;
+}
+
+.educationDiv {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.leftDiv {
+    height: 600px;
+    font-family: Trebuchet MS;
+    border-right: 3px solid aqua;
+}
+
+.textAlignEnd {
+    text-align: end;
+}
+
+.sscDiv {
+    margin-right: 25px;
+    margin-top: 75px;
+    display: grid;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.hscDiv {
+    display: grid;
+    align-items: center;
+    margin-left: 15px;
+    font-family: Trebuchet MS
+}
+
+@media (max-width:400px) {
+    .educationMainDiv {
+        margin-top: 50px;
+        height: 700px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .education {
+        letter-spacing: 3px;
+        margin-left: 0;
+        font-size: 250%;
+    }
+
+    .educationDiv {
+        display: block;
+    }
+
+    .leftDiv {
+        height: fit-content;
+        font-family: Trebuchet MS;
+        border-right: none;
+    }
+
+    .textAlignEnd {
+        text-align: start;
+    }
+
+    .sscDiv {
+        margin-right: 0;
+        margin-top: 110px;
+        display: grid;
+    }
+
+    .hscDiv {
+        display: block;
+        margin-left: 0;
+        margin-top: 0;
+        align-items: initial;
+        font-family: Trebuchet MS
+    }
+}
