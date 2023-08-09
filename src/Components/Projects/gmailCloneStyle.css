@@ -1,0 +1,50 @@
+.gmailClone {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.gmailCloneText {
+    font-family: Trebuchet MS;
+    color: aqua;
+    max-width: fit-content;
+    border-bottom: 3px solid rgb(255, 193, 7);
+}
+
+.gmailCloneDesc {
+    font-family: Trebuchet MS;
+}
+
+.gmailCloneSpecifications {
+    font-family: Arial;
+}
+
+.gmailCloneProjectButtons {
+    display: flex;
+    border: 2px solid rgb(255, 193, 7);
+    border-radius: 10px;
+    position: relative;
+    top: 50;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.gmailClonebuttonDiv {
+    position: relative;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, 0);
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid rgb(255, 193, 7);
+    max-width: fit-content;
+    margin-top: 0px;
+}
+
+@media (max-width:400px) {
+    .gmailClone {
+        display: block;
+        margin-top: 20px;
+        border-bottom: 3px solid white;
+    }
+}
