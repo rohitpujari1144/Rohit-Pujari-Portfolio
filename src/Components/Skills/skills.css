@@ -1,0 +1,73 @@
+.skillsMainDiv {
+    height: 600px;
+    margin-top: 50px;
+}
+
+.border-warning {
+    margin: 50px;
+}
+
+.skillsHeadingDiv {
+    margin-left: 30px;
+    max-width: fit-content;
+    margin-top: 15px;
+}
+
+.skills {
+    letter-spacing: 3px;
+}
+
+.skillsCardDiv {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 20px;
+    justify-content: space-evenly;
+}
+
+.cardText {
+    font-family: Trebuchet MS;
+}
+
+.bg-white {
+    padding: 15px;
+    width: 120%;
+}
+
+.skillIcon {
+    max-width: 30px;
+    max-height: 30px;
+}
+
+@media (max-width:400px) {
+    .skillsMainDiv {
+        height: fit-content;
+        margin-top: 80px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .border-warning {
+        margin: 0px;
+    }
+
+    .skillsHeadingDiv {
+        margin-left: 10px;
+        max-width: 0;
+        margin-top: 10px;
+    }
+
+    .skillsCardDiv {
+        display: grid;
+        grid-template-columns: auto;
+        grid-gap: 20px;
+        justify-content: center
+    }
+
+    .bg-white {
+        padding: 10px;
+    }
+
+
+}
